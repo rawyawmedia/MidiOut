@@ -1,0 +1,17 @@
+{
+    "name": "com.rawyawmedia.midiout",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c7e9e20acafe53118b1ee620f925d4c8",
+        "GUID:3290356123b9eaf43b18df17cbfad07c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
